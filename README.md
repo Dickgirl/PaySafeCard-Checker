@@ -7,7 +7,7 @@
 ```
 ⌨️ 1. Install all packages
 ⌨️ 2. Install chromedriver (latest)
-⌨️ 3. Generate some PSC-Codes -> [Click Here](https://www.voucherify.io/generator)
+⌨️ 3. Generate some PSC-Codes -> https://www.voucherify.io/generator
 ✉️ 4. Run Script
 ✉️ 5. Specify your .txt codes list
 💳 6. Check your codes!
