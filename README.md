@@ -5,6 +5,7 @@
 
 # Versions
 v1 - **Selenium/WebDriver Checker**
+
 v2 - **API** (⭐ 50 = Release)**
 
 
