@@ -16,6 +16,7 @@
 
 
 > **HOW-TO-USE Voucherify Generator?**
+
 ![ScreenShot](https://i.ibb.co/k2hqz1F/Zrzut-ekranu-2022-11-19-121114.png)
 
 
