@@ -1,0 +1,6 @@
+pip install colorama
+pip install termcolor
+pip install selenium
+pip install sys
+pip install os
+pip install time
