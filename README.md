@@ -1,7 +1,7 @@
 # PaySafeCard-Checker
 **💳 Automated script for checking PaySafeCard codes by Selenium (Python3)**
 
-
+### ✔️ If you want to check codes more efficiently, write to me in a private message on discord. I have a checker for you based on the Paysafecard API. You can buy it for $10 with 3x API Key. ✔️
 
 # Versions
 v1 - **Selenium/WebDriver Checker**
