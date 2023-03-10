@@ -5,9 +5,9 @@
 ### ✔️ If you want to check codes more efficiently, write to me in a private message on discord. I have a checker for you based on the Paysafecard API. You can buy it for $10 with 3x API Key. ✔️
 
 # Versions
-v1 - **Selenium/WebDriver Checker**
+v1 - **Selenium/WebDriver Checker** very bad code
 
-v2 - **API** (⭐ 50 = Release)
+v2 - **API** (⭐ 50 = Release) probs shit code too
 
 
 
